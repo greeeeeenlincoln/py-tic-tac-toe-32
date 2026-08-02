@@ -1,2 +1,4 @@
-# py-tic-tac-toe-32
+# Py Tic Tac Toe 32
+
 A command line Tic-Tac-Toe game in Python.
+
